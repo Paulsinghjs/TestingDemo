@@ -1,6 +1,6 @@
 package org.fullyabstraction;
 
-public class Email {
+public class Facebook {
  
 	public static void userName() {
 	System.out.println("Username");
