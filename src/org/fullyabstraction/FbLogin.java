@@ -6,7 +6,13 @@ public class FbLogin {
 		System.out.println("Username");
 
 	}
+	public static void passWord() {
+		System.out.println("Password");
+
+	}
 		public static void main(String[] args) {
 			userName();
+			passWord();
+
 		}
 }
